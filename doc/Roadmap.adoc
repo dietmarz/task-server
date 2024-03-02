@@ -3,15 +3,20 @@
 Server for Web/Android/Mobil endpoints
 
 == Umsetzung
+* Login to github, usage of REST API, read file, rea write commit
 * Server caches all adoc files to value objects by using the github API
-* permanent Polling, if a commit happened and if reload affected files
+* permanent Polling, if a commit happened reload affected files
+* Button reload all files?
 
-== UC-1: Read Content
+== UC: Security Login
+* Login to the app
+
+== UC: Read Content
 * List Grep Result
 * View Content
 * Tree Ansicht
 
-== Stufe 2: Write
+== UC Write
 * Write Maske
 * Merge
 * Konflikterkennung
