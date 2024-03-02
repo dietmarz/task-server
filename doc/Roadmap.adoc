@@ -1,0 +1,17 @@
+= Roadmap
+
+Server for Web/Android/Mobil endpoints
+
+== Umsetzung
+* Server caches all adoc files to value objects by using the github API
+* permanent Polling, if a commit happened and if reload affected files
+
+== UC-1: Read Content
+* List Grep Result
+* View Content
+* Tree Ansicht
+
+== Stufe 2: Write
+* Write Maske
+* Merge
+* Konflikterkennung
