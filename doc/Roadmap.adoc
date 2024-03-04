@@ -20,3 +20,13 @@ Server for Web/Android/Mobil endpoints
 * Write Maske
 * Merge
 * Konflikterkennung
+
+== Github Token
+* Start at github.com
+  -> lc Profile Image
+  -> lc Settings
+  -> Menu: lc Developer settings
+  -> lc Menu: Personal access tokens -> Button: Generate new tocken, Fine-grained-repro-scoped
+
+* expires 01.Juli 2024
+* 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
